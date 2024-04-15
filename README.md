@@ -1,4 +1,4 @@
-# Muhammed Rüşen Birben
+# Muhammed Ruşen Birben
 
 👋 Hello there! Welcome to my GitHub profile. I'm Muhammed Rüşen Birben (call me Ruşen [rushen]), a university student at Istanbul Technical University, specializing in AI and Data Engineering. I'm passionate about exploring the realms of artificial intelligence and data science. 🚀
 
