@@ -29,10 +29,8 @@ I believe in continuous learning and improving my skills. Here are some online c
 
 ## Connect with Me
 
-Let's connect and collaborate! You can find me on:
+Let's connect and collaborate! You can find me on LinkedIn:
 
-[![Threads](https://img.shields.io/badge/-Threads-%23FF6B00?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@rusenbirben)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rusenbirben/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ru%C5%9Fen-birben-691855202)
 
 Feel free to reach out to me through any of these platforms. I'm always excited to meet like-minded individuals and explore new opportunities!
