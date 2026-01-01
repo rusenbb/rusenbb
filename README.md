@@ -2,7 +2,7 @@
 
 AI & Data Engineer based in Istanbul, Turkey.
 
-I'm an AI & Data Engineering graduate from Istanbul Technical University, passionate about NLP, LLMs, and building intelligent systems. Founder of [Fiction Studios](https://fictionstudios.ai).
+I'm an AI & Data Engineering graduate from Istanbul Technical University, passionate about NLP, LLMs, and building intelligent systems. Co-founder of [Fiction Studios](https://fictionstudios.ai).
 
 ## What I work with
 
