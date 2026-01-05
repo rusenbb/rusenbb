@@ -1,6 +1,6 @@
 # Hey, I'm Ruşen
 
-AI & Data Engineer based in Istanbul, Turkey.
+AI & Data Engineer based in Ankara, Turkey.
 
 I'm an AI & Data Engineering graduate from Istanbul Technical University, passionate about NLP, LLMs, and building intelligent systems. Co-founder of [Fiction Studios](https://fictionstudios.ai).
 
